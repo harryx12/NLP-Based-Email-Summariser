@@ -1,0 +1,58 @@
+=== EMAIL ===
+I am Krutika Rakshe from BSV Mankind HR Team.
+
+I would like to get in touch with your Placement cell  for the following .
+
+ 
+
+We are hiring Graduate Sales Trainees across India.
+
+ 
+
+We at BSV are looking for Smart, fresh graduates in B.tech /B. Pharma / B. Sc. (Microbiology/Life Sciences/Biotechnology) across major cities who will be deputed as trainees for 1 year. Post 1 year they have an opportunity to get confirmed based on their performance and business requirements for a sales role.
+
+Kindly send us the list of interested female students only by today .
+
+ 
+
+Attached is the Job Description for your reference
+
+ 
+
+Offered CTC is 4 LPA
+
+ 
+
+Kindly find the HQ List.
+
+ 
+
+Ahmedabad
+Bangalore
+Bhubaneshwar
+Chennai
+Delhi
+Indore
+Jaipur
+Kolkata
+Lucknow
+Mumbai
+Pune
+ 
+
+I will be needing the names by tonight please. 
+
+ 
+
+Regards, 
+
+Krutika Rakshe
+
+=== SUMMARY ===
+🔍 **Extractive Summary:**
+I am Krutika Rakshe from BSV Mankind HR Team. We are hiring Graduate Sales Trainees across India. (Microbiology/Life Sciences/Biotechnology) across major cities who will be deputed as trainees for 1 year. Post 1 year they have an opportunity to get confirmed based on their performance and business requirements for a sales role. Regards, 
+
+Krutika Rakshe
+
+🧠 **Abstractive Summary (BART):**
+ BSV are looking for Smart, fresh graduates in B.tech /B. Pharma / B. Sc. (Microbiology/Life Sciences/Biotechnology) Post 1 year they have an opportunity to get confirmed based on their performance and business requirements.
